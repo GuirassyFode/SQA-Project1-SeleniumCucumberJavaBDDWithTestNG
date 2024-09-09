@@ -28,3 +28,6 @@ export PATH=$PATH:/Users/defogui/Documents/projects/dev/Python/masterPython/Phyt
 
 ## Run Maven
 mvn clean test
+
+![image](https://github.com/user-attachments/assets/8c4103b7-488f-43f4-a85b-20a504d9c77a)
+
