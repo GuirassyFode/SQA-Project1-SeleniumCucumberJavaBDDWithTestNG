@@ -34,9 +34,14 @@ mvn clean test
 
 ![image](https://github.com/user-attachments/assets/1ba7dabb-a021-46bf-875b-a34768e3484c)
 
-
+## Jenkins configuration 
 
 ![image](https://github.com/user-attachments/assets/4934ddef-aa38-4945-9c89-b23d3583e253)
+
+## Job Built Successfully 
+
+![image](https://github.com/user-attachments/assets/d8ac182b-4cc1-4aa9-a3e7-c1f163f3f0f4)
+
 
 
 
